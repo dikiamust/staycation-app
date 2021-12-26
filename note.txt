@@ -1,0 +1,4 @@
+Troubleshooting ketika mengalami salah penutupan tag + commit git
+
+
+rel={props.target === "_blank" ? "noopener noreferrer" : undefined}>{props.children}</a>
